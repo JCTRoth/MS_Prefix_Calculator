@@ -10,6 +10,6 @@ Use ! to calculat factorials.
 
 ![Calc1](/img/prefix1.png)
 ![Calc2](/img/prefix2.png)
-![Calc3](/img/prefix3.png)
-![Calc4](/img/prefix4.png)
-![Calc5](/img/prefix5.png)
+![Calc3](/img/prefix4.png)
+![Calc4](/img/prefix5.png)
+![Calc5](/img/prefix6.png)
