@@ -5,7 +5,9 @@
 #### Result will be: 17
 
 Use POW to calculat exponents.
+
 Use ! to calculat factorials.
+
 "Check Fixed Prime Number" checks if a pre codet big fixed number has the features of a prime number. This was done to test implementation of an async task.
 
 ![Calc1](/img/prefix1.png)
