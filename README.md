@@ -8,7 +8,7 @@ Use POW to calculat exponents.
 
 Use ! to calculat factorials.
 
-"Check Fixed Prime Number" checks if a pre coded big fixed number, if it has the features of a prime number. This was done to test implementation of an async task.
+"Check Fixed Prime Number" checks if a pre coded big number has the features of a prime number. This was done to test the implementation of an async task.
 
 ![Calc1](/img/prefix1.png)
 
